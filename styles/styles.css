@@ -11,7 +11,7 @@ body {
     padding: 0;
     box-sizing: border-box;
     background-color: var(--darkCyan);
-    background-image: url("./images/bg-pattern-top.svg");
+    background-image: url("../images/bg-pattern-top.svg");
 }
 .container {
     width: 85%;
@@ -22,7 +22,7 @@ body {
 }
 .background {
     height: 200px;
-    background-image: url("./images/bg-pattern-card.svg");
+    background-image: url("../images/bg-pattern-card.svg");
 }
 .data {
     display: flex;
