@@ -10,6 +10,15 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color: var(--darkCyan);
+    background-image: url("./images/bg-pattern-top.svg");
+}
+.container {
+    width: 85%;
+    margin: 100px auto;
+    border-radius: 15px;
+    overflow: hidden;
+    background-color: white;
 }
 .background {
     height: 200px;
